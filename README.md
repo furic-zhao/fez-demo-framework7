@@ -6,10 +6,10 @@
 > [Framework7](http://framework7.cn/) 是一个开源免费的框架可以用来开发混合移动应用（原生和HTML混合）或者开发 iOS & Android 风格的WEB APP。
 
 #### Framework7 更多信息参考
-- 【[Framework7官方网站 http://framework7.io/](http://framework7.io/)】
-- 【[Framework7中文网站 http://framework7.cn/](http://framework7.cn/)】
-- 【[Framework7官方 Vue 网站 http://framework7.io/vue/](http://framework7.io/vue/)】
-- 【[Framework7官方 React 网站 http://framework7.io/react/](http://framework7.io/react/)】
+- 【[Framework7官方网站](http://framework7.io/)】
+- 【[Framework7中文网站](http://framework7.cn/)】
+- 【[Framework7官方Vue网站](http://framework7.io/vue/)】
+- 【[Framework7官方React网站](http://framework7.io/react/)】
 
 ## 使用方法
 
