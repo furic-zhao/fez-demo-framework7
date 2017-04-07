@@ -1,0 +1,12 @@
+/* =========
+Your index styles go here
+ ========= */
+
+.fez-pic {
+  min-height: 35vw;
+  background-image: url(../images/fez-logo.png);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4Lmxlc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBSUE7RUFDQyxnQkFBQTtFQUNBLDZDQUFBO0VBQ0EsMEJBQUE7RUFDQSw0QkFBQSIsInNvdXJjZXNDb250ZW50IjpbIi8qID09PT09PT09PVxyXG5Zb3VyIGluZGV4IHN0eWxlcyBnbyBoZXJlXHJcbiA9PT09PT09PT0gKi9cclxuXHJcbi5mZXotcGljIHtcclxuXHRtaW4taGVpZ2h0OiAzNXZ3O1xyXG5cdGJhY2tncm91bmQtaW1hZ2U6IHVybCguLi9pbWFnZXMvZmV6LWxvZ28ucG5nKTtcclxuXHRiYWNrZ3JvdW5kLXNpemU6IDEwMCUgYXV0bztcclxuXHRiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXG59Il0sImZpbGUiOiJpbmRleC5jc3MifQ== */

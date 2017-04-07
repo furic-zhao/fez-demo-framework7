@@ -1,0 +1,15 @@
+{
+  "name": "Framework7-Vue",
+  "homepage": "https://github.com/nolimits4web/Framework7-Vue",
+  "version": "0.8.5",
+  "_release": "0.8.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.8.5",
+    "commit": "820aa15f1c714815c80f3f14e960e0b02a6697b8"
+  },
+  "_source": "https://github.com/nolimits4web/Framework7-Vue.git",
+  "_target": "^0.8.5",
+  "_originalSource": "https://github.com/nolimits4web/Framework7-Vue.git",
+  "_direct": true
+}
