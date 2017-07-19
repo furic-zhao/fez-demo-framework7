@@ -21,43 +21,6 @@
 
 > 若项目不在 FEZ 工程根目录，请自行修改项目目录中的`gulpfile.babel.js`文件中的路径。
 
-## 任务命令说明
-
-- 研发环境
-
-````bash
-gulp
-````
-
-- 生产部署
-
-````bash
-gulp dist
-````
-
-- SSH上传
-
-````bash
-gulp sftp
-````
-
-- 打包压缩
-
-````bash
-gulp zip
-````
-
-- svg => icon 转换
-
-````bash
-gulp svg2icon
-````
-
-- 本地测试上线代码
-
-````bash
-gulp view
-````
 
 ## 目录结构
 
