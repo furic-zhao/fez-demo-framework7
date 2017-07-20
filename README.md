@@ -17,10 +17,9 @@
 
 - 进入 FEZ 工程目录，执行 `git clone https://github.com/furic-zhao/fez-demo-framework7.git` 将本示例下载到 FEZ 根目录
 
-- 进入 fez-demo-framework7 目录 执行 `gulp` 或 `gulp dev`，FEZ 会自动打开系统默认浏览器并进入研发环境。
+- 进入 fez-demo-framework7 目录执行`gulp`，FEZ会自动打开系统默认浏览器并进入研发环境。
 
-> 若项目不在 FEZ 工程根目录，请自行修改项目目录中的`gulpfile.babel.js`文件中的路径。
-
+> FEZ默认支持3层目录结构，若项目目录太深，请自行修改项目目录`gulpfile.babel.js`文件中的`fezDeep`数值。
 
 ## 目录结构
 
