@@ -1,4 +1,4 @@
-import ApiData from 'public/demo-data'
+import ApiData from 'views/public/demo-data'
 
 import Q from 'q'
 
