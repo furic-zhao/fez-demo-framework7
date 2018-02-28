@@ -21,5 +21,9 @@ git clone https://github.com/furic-zhao/fez-demo-framework7.git
 
 cd fez-demo-framework7
 
+bower install
+
 gulp
 ```
+
+> 本示例使用bower管理第三方库，需要全局安装bower(`npm install bower -g`)
