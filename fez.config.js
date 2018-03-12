@@ -7,9 +7,7 @@ export default {
   webpack: {
     config: {
       externals: {
-        vue: 'Vue',
-        framework7: 'Framework7',
-        'framework7-vue': 'Framework7Vue'
+        q: 'Q'
       }
     }
   },

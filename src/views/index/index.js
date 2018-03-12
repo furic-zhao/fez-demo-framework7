@@ -14,21 +14,21 @@ import Routes from './routes.js'
 import App from './index.vue'
 
 // Init F7 Vue Plugin
-Vue.use(Framework7Vue)
+Vue.use(Framework7Vue, Framework7)
 
 // Init App
 new Vue({
-    el: '#app',
-    template: '<app/>',
-    // Init Framework7 by passing parameters here
-    framework7: {
-        root: '#app',
-        /* Uncomment to enable Material theme: */
-        // material: true,
-        routes: Routes,
-    },
-    // Register App Component
-    components: {
-        app: App
-    }
+  el: '#app',
+  template: '<app/>',
+  // Init Framework7 by passing parameters here
+  framework7: {
+    root: '#app',
+    /* Uncomment to enable Material theme: */
+    // material: true,
+    routes: Routes,
+  },
+  // Register App Component
+  components: {
+    app: App
+  }
 });

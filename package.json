@@ -1,0 +1,32 @@
+{
+  "name": "fez-demo-framework7",
+  "version": "1.0.0",
+  "description": "fez-demo-framework7",
+  "main": "fez.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furic-zhao/fez-demo-framework7.git"
+  },
+  "keywords": [
+    "fez",
+    "framework7"
+  ],
+  "author": "furic-zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furic-zhao/fez-demo-framework7/issues"
+  },
+  "homepage": "https://github.com/furic-zhao/fez-demo-framework7#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "framework7": "^2.0.10",
+    "framework7-vue": "^2.0.10",
+    "vue": "^2.5.13"
+  }
+}

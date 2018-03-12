@@ -12,7 +12,7 @@
 - 【[Framework7官方Vue网站](http://framework7.io/vue/)】
 - 【[Framework7官方React网站](http://framework7.io/react/)】
 
-## 使用方法
+**下载运行示例**
 
 ```
 cd FEZ工程目录
@@ -26,4 +26,8 @@ bower install
 gulp
 ```
 
-> 本示例使用bower管理第三方库，需要全局安装bower(`npm install bower -g`)
+> 本示例使用bower管理第三方库，需要全局安装bower `npm install bower -g`
+
+**查看示例**
+
+[fez-demo-framework7](http://fez.hestudy.com/fez-demo-framework7/)
